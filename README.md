@@ -1,4 +1,4 @@
 # Connect-Four---OpenCV
 
 
-This is the original Connect four Game using OpenCV and Mediapipe
+This is the original Connect four Game developed using OpenCV and Mediapipe
